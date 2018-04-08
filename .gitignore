@@ -1,7 +1,13 @@
-
+#File types to ignore
 *.csv
 *.setup
 *.config
-*cred*.*
+*.pkl
 
+#Folders to ignore
 /config
+/scratch
+/data
+
+#Specific files to ignore
+*cred*.*
